@@ -75,7 +75,7 @@
 <br /><a href="https://github.com/Kronwarin/CPSC462BCOM/blob/master/warn.java?fbclid=IwAR10FuvEilVILbmnovhE28zMrpEkqemw75sCo_RcQ0qRYibzwtV9sMKehso">การหาค่าบวก ลบ คูณ หาร</a>
 <br /><a href="https://github.com/Kronwarin/CPSC462BCOM/blob/master/%E0%B8%9C%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%9E%E0%B8%98%E0%B9%8C1.1.PNG?fbclid=IwAR1IpTMRQ9GciiOGLvuEikh5JaBKMg5yCU0fye5BouE34_R2A6AYPOXbCSw">ผลลัพธ์การหาค่าบวก ลบ คูณ หาร</a>
 <br /><a href="https://github.com/Kronwarin/CPSC462BCOM/blob/master/warn2.java?fbclid=IwAR1CKTL-PWdDiH3WH8I6WVVebj_98qBiXZxobPY3Qmr_wEJavT_iZbOWcKg">การประกาศตัวแปรต่างๆ</a>
-<br /><a href="https://github.com/suwatjanee005/work3-CPSC462/blob/master/%E0%B8%9C%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%9E%E0%B8%98%E0%B9%8C1.2.png">ผลลัพธ์การประกาศตัวแปรต่างๆ</a>
+<br /><a href="https://github.com/Kronwarin/CPSC462BCOM/blob/master/%E0%B8%9C%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%9E%E0%B8%98%E0%B9%8C1.2.PNG?fbclid=IwAR0rmvDONjCozerSRnIBSZJzP24b3nZLDWQdVEv88tYSDaTs0zlDQmBQ-3M">ผลลัพธ์การประกาศตัวแปรต่างๆ</a>
 <br /><a href="https://github.com/Kronwarin/CPSC462BCOM/blob/master/warn3.java?fbclid=IwAR1FpCphdquCu3ydBcvdgWpXF59-PaZWHr6WelN04aFPslC7dhUCIl1xwPI">การหาค่าMix,min</a>
 <br /><a href="https://github.com/Kronwarin/CPSC462BCOM/blob/master/%E0%B8%9C%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%9E%E0%B8%98%E0%B9%8C1.3.PNG?fbclid=IwAR18t_1fme0rwimyemuZQhuyDaVM0SItE_vZdpTjnYFKE_sqORrasHtacIM">ผลลัพธ์การหาค่าMix,min</a></p>
 
