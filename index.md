@@ -25,6 +25,9 @@
 สีที่ชอบ : สีขาว สีดำ สีชมพู สีฟ้า
 เบอร์โทร : 0954563043
 
+## javaintro
+<p><a href="https://github.com/Kronwarin/CPSC462BCOM_HW7/blob/master/javaintro.pdf" class="button">javaintro</a>
+    
 ## 36 pyramid
 <a href="https://github.com/Kronwarin/java_pyramid/blob/master/namwarn01.java" class="button">pyramid01</a>
 <a href="https://github.com/Kronwarin/java_pyramid/blob/master/namwarn01.java" class="button">pyramid02</a>
