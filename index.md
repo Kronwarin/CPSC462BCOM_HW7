@@ -25,10 +25,12 @@
 สีที่ชอบ : สีขาว สีดำ สีชมพู สีฟ้า
 เบอร์โทร : 0954563043
 
-## javaintro
+<h3 id="javaintro">javaintro</h3>
+javaintro
 <p><a href="https://github.com/Kronwarin/CPSC462BCOM_HW7/blob/master/javaintro.pdf" class="button">javaintro</a>
-    
-## 36 pyramid
+
+<h3 id="pyramid">pyramid</h3>
+36 pyramid
 <a href="https://github.com/Kronwarin/java_pyramid/blob/master/namwarn01.java" class="button">pyramid01</a>
 <a href="https://github.com/Kronwarin/java_pyramid/blob/master/namwarn01.java" class="button">pyramid02</a>
 <a href="https://github.com/Kronwarin/java_pyramid/blob/master/namwarn01.java" class="button">pyramid03</a>
@@ -92,8 +94,7 @@
 
 
 <h3 id="งานมอบหมายที่8">งานมอบหมายที่8</h3>
- 
-### data
+data
 <p><a href="https://github.com/Kronwarin/CPSC462BCOM_HW7-8/blob/master/data_categories.txt" class="button">data_categories</a>
 <p><a href="https://github.com/Kronwarin/CPSC462BCOM_HW7-8/blob/master/data_customers.txt" class="button">data_customers</a>
 <p><a href="https://github.com/Kronwarin/CPSC462BCOM_HW7-8/blob/master/data_employees.txt" class="button">data_employees</a>
@@ -103,7 +104,7 @@
 <p><a href="https://github.com/Kronwarin/CPSC462BCOM_HW7-8/blob/master/data_shippers.txt" class="button">data_shippers</a>
 <p><a href="https://github.com/Kronwarin/CPSC462BCOM_HW7-8/blob/master/data_suppliers.txt" class="button">data_suppliers</a>
     
-### print
+print
 <p><a href="https://github.com/Kronwarin/CPSC462BCOM_HW7-8/blob/master/print_categories.java" class="button">print_categories</a>
 <p><a href="https://github.com/Kronwarin/CPSC462BCOM_HW7-8/blob/master/print_customers.java" class="button">print_customers</a>
 <p><a href="https://github.com/Kronwarin/CPSC462BCOM_HW7-8/blob/master/print_employees.java" class="button">print_employees</a>
