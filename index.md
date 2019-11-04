@@ -91,7 +91,7 @@ javaintro
 <p><a href="https://github.com/Kronwarin/CPSC462BCOM/blob/master/%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B9%81%E0%B8%9B%E0%B9%89%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%9A%E0%B8%A5%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A3%E0%B8%A2%E0%B9%8C.pdf?fbclid=IwAR0d9ASA5ORWxdiVrJ6PnV77JKdIWMPEdC6xQIpgYH7RGSLzCX9MakRMnns">โปรแกรมรับค่าจากแป้นพิมพ์เก็บลงอาร์เรย์</a></p>
 
 <h3 id="midtrem-project"><a href="https://github.com/Kronwarin/CPSC462BCOM_HW7/blob/master/Midtermproject.pdf">Midtrem Project</a></h3>
-
+<p>
 
 <h3 id="งานมอบหมายที่8">งานมอบหมายที่8</h3>
 data
