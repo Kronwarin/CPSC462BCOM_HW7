@@ -92,7 +92,6 @@
 
 
 <h3 id="งานมอบหมายที่8">งานมอบหมายที่8</h3>
-
 ## data
 <p><a href="https://github.com/Kronwarin/CPSC462BCOM_HW7-8/blob/master/data_categories.txt" class="button">data_categories</a>
 <p><a href="https://github.com/Kronwarin/CPSC462BCOM_HW7-8/blob/master/data_customers.txt" class="button">data_customers</a>
