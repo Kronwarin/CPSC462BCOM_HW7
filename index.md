@@ -89,3 +89,24 @@
 <p><a href="https://github.com/Kronwarin/CPSC462BCOM/blob/master/%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B9%81%E0%B8%9B%E0%B9%89%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%9A%E0%B8%A5%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A3%E0%B8%A2%E0%B9%8C.pdf?fbclid=IwAR0d9ASA5ORWxdiVrJ6PnV77JKdIWMPEdC6xQIpgYH7RGSLzCX9MakRMnns">โปรแกรมรับค่าจากแป้นพิมพ์เก็บลงอาร์เรย์</a></p>
 
 <h3 id="midtrem-project"><a href="https://github.com/Kronwarin/CPSC462BCOM_HW7/blob/master/Midtermproject.pdf">Midtrem Project</a></h3>
+
+## data
+<p><a href="https://github.com/Kronwarin/CPSC462BCOM_HW7-8/blob/master/data_categories.txt" class="button">data_categories</a>
+<a href="https://github.com/Kronwarin/CPSC462BCOM_HW7-8/blob/master/data_customers.txt" class="button">data_customers</a>
+<a href="https://github.com/Kronwarin/CPSC462BCOM_HW7-8/blob/master/data_employees.txt" class="button">data_employees</a>
+<a href="https://github.com/Kronwarin/CPSC462BCOM_HW7-8/blob/master/data_orderdetails.txt" class="button">data_orderdetails</a>
+<a href="https://github.com/Kronwarin/CPSC462BCOM_HW7-8/blob/master/data_orders.txt" class="button">data_orders</a>
+<a href="https://github.com/Kronwarin/CPSC462BCOM_HW7-8/blob/master/data_products.txt" class="button">data_products</a>
+<a href="https://github.com/Kronwarin/CPSC462BCOM_HW7-8/blob/master/data_shippers.txt" class="button">data_shippers</a>
+<a href="https://github.com/Kronwarin/CPSC462BCOM_HW7-8/blob/master/data_suppliers.txt" class="button">data_suppliers</a>
+    
+## print
+<p><a href="https://github.com/Kronwarin/CPSC462BCOM_HW7-8/blob/master/print_categories.java" class="button">print_categories</a>
+<a href="https://github.com/Kronwarin/CPSC462BCOM_HW7-8/blob/master/print_customers.java" class="button">print_customers</a>
+<a href="https://github.com/Kronwarin/CPSC462BCOM_HW7-8/blob/master/print_employees.java" class="button">print_employees</a>
+<a href="https://github.com/Kronwarin/CPSC462BCOM_HW7-8/blob/master/print_orderdetails.java" class="button">print_orderdetails</a>
+<a href="https://github.com/Kronwarin/CPSC462BCOM_HW7-8/blob/master/print_orders.java" class="button">print_orders</a>
+<a href="https://github.com/Kronwarin/CPSC462BCOM_HW7-8/blob/master/print_products.java" class="button">print_products</a>
+<a href="https://github.com/Kronwarin/CPSC462BCOM_HW7-8/blob/master/print_shippers.java" class="button">print_shippers</a>
+<a href="https://github.com/Kronwarin/CPSC462BCOM_HW7-8/blob/master/print_suppliers.java" class="button">print_suppliers</a>
+
