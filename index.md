@@ -104,7 +104,7 @@ data
 <p><a href="https://github.com/Kronwarin/CPSC462BCOM_HW7-8/blob/master/data_shippers.txt" class="button">data_shippers</a>
 <p><a href="https://github.com/Kronwarin/CPSC462BCOM_HW7-8/blob/master/data_suppliers.txt" class="button">data_suppliers</a>
     
-print
+<p>print
 <p><a href="https://github.com/Kronwarin/CPSC462BCOM_HW7-8/blob/master/print_categories.java" class="button">print_categories</a>
 <p><a href="https://github.com/Kronwarin/CPSC462BCOM_HW7-8/blob/master/print_customers.java" class="button">print_customers</a>
 <p><a href="https://github.com/Kronwarin/CPSC462BCOM_HW7-8/blob/master/print_employees.java" class="button">print_employees</a>
