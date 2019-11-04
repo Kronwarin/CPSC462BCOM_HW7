@@ -72,7 +72,7 @@ javaintro
 <a href="https://github.com/Kronwarin/java_pyramid/blob/master/namwarn01.java" class="button">pyramid33</a>
 <a href="https://github.com/Kronwarin/java_pyramid/blob/master/namwarn01.java" class="button">pyramid34</a>
 <a href="https://github.com/Kronwarin/java_pyramid/blob/master/namwarn01.java" class="button">pyramid35</a>
-<p><a href="https://github.com/Kronwarin/java_pyramid/blob/master/namwarn01.java" class="button">pyramid36</a>
+<a href="https://github.com/Kronwarin/java_pyramid/blob/master/namwarn01.java" class="button">pyramid36</a>
 
 
 <h3 id="งานมอบหมายที่3">งานมอบหมายที่3</h3>
