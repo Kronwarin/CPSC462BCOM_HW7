@@ -31,7 +31,7 @@ javaintro
 
 <h3 id="pyramid">pyramid</h3>
 36 pyramid
-<a href="https://github.com/Kronwarin/java_pyramid/blob/master/namwarn01.java" class="button">pyramid01</a>
+<p><a href="https://github.com/Kronwarin/java_pyramid/blob/master/namwarn01.java" class="button">pyramid01</a>
 <a href="https://github.com/Kronwarin/java_pyramid/blob/master/namwarn01.java" class="button">pyramid02</a>
 <a href="https://github.com/Kronwarin/java_pyramid/blob/master/namwarn01.java" class="button">pyramid03</a>
 <a href="https://github.com/Kronwarin/java_pyramid/blob/master/namwarn01.java" class="button">pyramid04</a>
