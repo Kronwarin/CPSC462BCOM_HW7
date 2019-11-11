@@ -123,7 +123,7 @@ data
 
 <h4 id="webhost">Webhost</h4>
 
-<h5 id="infinity"><a href="http://non005.epizy.com/sing_in.php">Infinity</a></h5>
+<h5 id="infinity"><a href="http://kronwawarn29.epizy.com/login.php">Infinity</a></h5>
 
-<h5 id="000webhost"><a href="https://ducatith.000webhostapp.com/">000Webhost</a></h5>
+<h5 id="000webhost"><a href="https://misbegot-rescue.000webhostapp.com/">000Webhost</a></h5>
 
